@@ -1,0 +1,8 @@
+{
+  "name": "ibugg-webview",
+  "app_id": "7cc31166",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
